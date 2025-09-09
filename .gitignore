@@ -1,3 +1,11 @@
 venv/
 venv
 .env
+data/chrome_db/
+chroma.sqlite3
+data/
+.log
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
