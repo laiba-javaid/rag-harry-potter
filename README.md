@@ -30,14 +30,13 @@ It combines modern **LLMs, embeddings, and vector search** to provide accurate, 
 
 ## 📸 Screenshots
 
-### Home Interface  
-![Home](./screenshots/home.png)
+ 
+![Home](./assets/screenshots/rag-harry-potter.jpeg)
 
-### Magical Response Area  
-![Response](./screenshots/response.png)
+![Response](./assets/screenshots/rag2.jpeg)
 
-### Query Categories & Features  
-![Categories](./screenshots/categories.png)
+ 
+![Categories](./assets/screenshots/rag3.jpeg)
 
 ---
 
