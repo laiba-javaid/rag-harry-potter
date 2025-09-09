@@ -55,7 +55,7 @@ It combines modern **LLMs, embeddings, and vector search** to provide accurate, 
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/rag-harry-potter.git
+git clone https://github.com/laiba-javaid/rag-harry-potter.git
 cd rag-harry-potter
 ```
 ### 2️⃣ Create Virtual Environment & Install Dependencies
