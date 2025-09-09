@@ -70,7 +70,7 @@ pip install -r requirements.txt
 ```bash
 python run.py
 ```
-This will launch the app at http://127.0.0.1:7860.
+- This will launch the app at http://127.0.0.1:7860.
 ---
 ## 🧪 Usage
 
@@ -91,7 +91,7 @@ This project uses:
 
 #### Groq API Key
 
-👉 Store your keys in an .env file:
+- 👉 Store your keys in an .env file:
 ```bash
 HUGGINGFACE_API_KEY=your_key_here
 GROQ_API_KEY=your_key_here
